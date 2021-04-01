@@ -1,10 +1,10 @@
 # Hi, I'm Lars
 
 ```
-string name = "Lars Vlahakis"
-string pronouns = "they/them"
-int age = 20
-int years_coding = 5
+string **name** = "Lars Vlahakis"
+string **pronouns** = "they/them"
+int **age** = 20
+int **years_coding** = 5
 ```
 
 I am a third year Computer Engineering Student at UCSD with *possibly* too many interests. 
