@@ -9,6 +9,8 @@ int years_coding = 5
 
 I am a third year Computer Engineering Student at **UCSD** with *possibly* too many interests. 
 
+[Languages](https://github.com/lvlahaki/GitHubPages/blob/main/index.md#i-have-experience-with) [Current Projects](https://github.com/lvlahaki/GitHubPages/blob/main/index.md#current-projects)
+
 ## I have experience with:
 - Python
 - C
