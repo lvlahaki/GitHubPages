@@ -21,12 +21,14 @@ I've also taken classes in computer architecture and circuits.
 Outside of coding, I like to write, play music, knit, and read.
 
 I also like clowns.
+
 ![Two drawings of clowns on post-it notes](clowns.jpeg)
+
 They are very fun to draw.
 
 ## Current Projects
-- [] Knitting Pattern Preview
-- [] Irish Folk Song Search
+- [ ] Knitting Pattern Preview
+- [ ] Irish Folk Song Search
 
 A quote I like:
 > Be proud of your place in the cosmos. It is small, and yet, it is.
