@@ -29,6 +29,7 @@ I also like clowns.
 They are very fun to draw.
 
 ## Current Projects
+- [x] GitHub Page
 - [ ] Knitting Pattern Preview
 - [ ] Irish Folk Song Search
 
