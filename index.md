@@ -34,6 +34,6 @@ A quote I like:
 > Be proud of your place in the cosmos. It is small, and yet, it is.
 (from Welcome to Night Vale)
 
-[Here's some music I like to listen to while working:](https://open.spotify.com/playlist/5lFCFJkfndF0DcPcCT3zsE?si=8n3-8r-uQhSzBvSMhJAIbQ)
+[Here's some music I like to listen to while working](https://open.spotify.com/playlist/5lFCFJkfndF0DcPcCT3zsE?si=8n3-8r-uQhSzBvSMhJAIbQ)
 
 [Basic Info](README.md)
